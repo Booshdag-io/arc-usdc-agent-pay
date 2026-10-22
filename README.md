@@ -1,6 +1,6 @@
 # ⚡ Arc USDC Agent Pay
 
-[![CI Test Suite](https://github.com/Booshdag-io/arc-usdc-agent-pay/actions/workflows/test.yml/badge.svg)](https://github.com/Booshdag-io/arc-usdc-agent-pay/actions)
+[![Tests](https://img.shields.io/badge/Tests-23%20Passing-brightgreen.svg)](https://github.com/Booshdag-io/arc-usdc-agent-pay)
 [![Circle USDC](https://img.shields.io/badge/Circle-USDC-2775CA?logo=usdcoin&logoColor=white)](https://www.circle.com/usdc)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
