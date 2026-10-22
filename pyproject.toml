@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "arc-usdc-agent-pay"
 version = "0.1.0"
 authors = [
-  { name="David Telles", email="dyatellesverde@gmail.com" },
+  { name="Booshdag" },
 ]
 description = "Autonomous USDC Micro-Payment & Escrow Engine for AI Agents"
 readme = "README.md"
