@@ -85,7 +85,7 @@ This engine is designed to connect directly with **Circle Programmable Wallets**
 ---
 
 ## 👤 Author
-**David Telles**  
+**Booshdag**  
 GitHub: [@Booshdag-io](https://github.com/Booshdag-io)  
 X/Twitter: [@dtelles_88](https://x.com/dtelles_88)  
 
